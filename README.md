@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi 👋 I'm Henrick Morotomi
+Technical student focused on backend development.
 
-<!--
-**henry15-collab/henry15-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning and building projects with Python, APIs and Data Structures.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- REST APIs
+- Git & GitHub
+- Backend Development
+
+## 📚 Currently Studying
+
+- Data Structures
+- Algorithms
+- Backend Architecture
+- Cybersecurity fundamentals
+
+## 🧠 Projects
+
+- Habit Tracker (Fullstack)
+- Tech News Dashboard
+- Python Algorithms Collection
+
+## 🎯 Goals
+
+- Become a professional Backend Developer
+- Build solid API projects
+- Contribute to open source
+
+## 📈 GitHub Stats
+
+Learning and building projects every week.
