@@ -1,34 +1,27 @@
-## Hi 👋 I'm Henrick Morotomi
-Technical student focused on backend development.
+# Henrick Morotomi
 
-Currently learning and building projects with Python, APIs and Data Structures.
+**Cybersecurity · AI · Python · C#**
 
-## 🚀 Tech Stack
+## About me
 
-- Python
-- REST APIs
-- Git & GitHub
-- Backend Development
+I'm a TGPSI student from Portugal building practical skills in cybersecurity, software development, and artificial intelligence.
 
-## 📚 Currently Studying
+I use GitHub to document projects, authorized security labs, programming experiments, and technical knowledge.
 
-- Data Structures
-- Algorithms
-- Backend Architecture
-- Cybersecurity fundamentals
+## Current focus
 
-## 🧠 Projects
+- Developing practical cybersecurity skills
+- Exploring AI and its applications
+- Building projects with Python and C#
+- Documenting security labs and technical research
+- Exploring OSINT methodologies and responsible research
 
-- Habit Tracker (Fullstack)
-- Tech News Dashboard
-- Python Algorithms Collection
+## Featured projects
 
-## 🎯 Goals
+- **Python File Organizer** — a Python utility for organizing files by category.
+- **User Management System** — a Python project for practicing user-data management.
+- **Cybersecurity Labs** — practical exercises, technical reports, and lessons learned.
 
-- Become a professional Backend Developer
-- Build solid API projects
-- Contribute to open source
+## Português
 
-## 📈 GitHub Stats
-
-Learning and building projects every week.
+Estudante de TGPSI em Portugal, interessado em cibersegurança, inteligência artificial e desenvolvimento de software com Python e C#. Utilizo este perfil para documentar projetos práticos, laboratórios autorizados e a minha evolução técnica.
